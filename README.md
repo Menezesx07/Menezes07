@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Menezesx07&show_icons=true&count_private=true&hide_border=true&title_color=42f551&icon_color=42f551&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menezesx07&layout=compact&hide_border=true&title_color=ff91a4&text_color=42f551&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menezesx07&layout=compact&hide_border=true&title_color=42f551&text_color=42f551&bg_color=0d1117" />
 </div>
 
 
